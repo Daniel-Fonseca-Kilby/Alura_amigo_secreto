@@ -27,3 +27,9 @@
 3. Para sortear un amigo, haz clic en el botón "Sortear amigo". El resultado se mostrará en la sección de resultados.
 
 
+#Autor
+
+El autor de este proyecto es: Daniel Fonseca Kilby
+
+
+
